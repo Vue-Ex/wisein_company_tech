@@ -1,5 +1,7 @@
 <template>
-  <div>header</div>
+  <header>
+    <a href="#"><v-img>Tech</v-img></a>
+  </header>
 </template>
 
 <script>
